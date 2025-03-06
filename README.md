@@ -8,4 +8,6 @@ A map made from lidar derived surface elevations
 
 
 
- title="map"><img src="https://live.staticflickr.com/3485/3720141971_324155f776_z.jpg" 
+## My map image
+
+[campground](https://live.staticflickr.com/3485/3720141971_324155f776_z.jpg)
