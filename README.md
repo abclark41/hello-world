@@ -10,4 +10,4 @@ A map made from lidar derived surface elevations
 
 ## My map image
 
-[campground](https://live.staticflickr.com/3485/3720141971_324155f776_z.jpg)
+![campground](https://live.staticflickr.com/3485/3720141971_324155f776_z.jpg)
